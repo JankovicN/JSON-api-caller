@@ -14,6 +14,7 @@ public class Main3 {
 	public static void main(String[] args) {
 		
 		try(FileReader in = new FileReader("niz_objekata.json")){
+			
 			Gson gson = new GsonBuilder().setPrettyPrinting().create();
 			
 			List<Bored> bored = Arrays.asList(gson.fromJson(in, Bored[].class));

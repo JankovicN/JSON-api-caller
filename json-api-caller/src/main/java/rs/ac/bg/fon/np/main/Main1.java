@@ -29,7 +29,6 @@ public class Main1 {
 			Bored bored= gson.fromJson(in, Bored.class);
 			
 			System.out.println(bored);
-			
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
