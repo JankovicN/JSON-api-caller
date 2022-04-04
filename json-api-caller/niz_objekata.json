@@ -1,0 +1,22 @@
+[
+  {
+    "activity": "Memorize the fifty states and their capitals",
+    "type": "education",
+    "participants": 1
+  },
+  {
+    "activity": "Volunteer at your local food pantry",
+    "type": "charity",
+    "participants": 1
+  },
+  {
+    "activity": "Organize your music collection",
+    "type": "busywork",
+    "participants": 1
+  },
+  {
+    "activity": "Go to a concert with local artists with some friends",
+    "type": "social",
+    "participants": 3
+  }
+]
