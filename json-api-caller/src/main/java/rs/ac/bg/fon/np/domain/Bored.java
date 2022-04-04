@@ -36,8 +36,8 @@ public class Bored {
 
 	@Override
 	public String toString() {
-		return "\nYour activity is: " + activity +"!\nType of activity: " + type + "!\nNumber of participants for this activity: " + participants
-				+ "!\n";
+		return "\nYour activity is: " + activity + "\nType of activity: " + type
+				+ "\nNumber of participants for this activity: " + participants + "\n";
 	}
 
 }
